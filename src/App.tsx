@@ -38,7 +38,7 @@ console.log('done');
             {/* <h2>Launching on</h2> */}
             <h2>Coming Shortly</h2>
           </div>
-        </div>
+        </div> 
         <div className="countdown-timer">
           <div className="timer">
             <div className="timer-unit">
